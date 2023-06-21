@@ -1,2 +1,2 @@
 # Articles-go
-This will contain basic crud endpoints 
+This will contain basic crud endpoints. 
